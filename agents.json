@@ -1,0 +1,11 @@
+{
+  "agents": [
+    {
+      "id": "koder-pro",
+      "name": "Koder Pro (Free)",
+      "folder": "koder-pro",
+      "engine": "pollinations",
+      "model": "openai"
+    }
+  ]
+}
